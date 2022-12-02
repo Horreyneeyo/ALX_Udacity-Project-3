@@ -29,7 +29,7 @@ I was also re-engineering data values of distance and duration features from met
 - More subscribers engage in longer distance bike trips than customers while there is no distinct user type which engage in longer duration bike trips
 
 
-## Key Insights for Presentation
+## Key Insights
 
 -  An overview of the modified dataset shows that 91% of the bikers are subscribers, 9% are customers. 75% of bikers are male, 23% females, 2% identify as others. 10% of the bikers prefer the biker sharing option while 90% do not.
 
